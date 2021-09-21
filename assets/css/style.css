@@ -78,3 +78,10 @@ body {
       background-position: center;
   }
   /*Hero Style End*/
+
+  .hero-form{
+      color:#024e76;
+      background-color: #fce138;
+      padding: 20px;
+      width: 500px;
+  }
