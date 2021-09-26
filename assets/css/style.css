@@ -48,14 +48,6 @@ body {
       font-weight: lighter;
       font-size: 1.55 vw;
   }
-  
-  /* Lesson 2.2.5 remove this class and replace with one above.  does not specify font weight and size */
-  /* header nav ul li{
-    display: inline;  
-    margin: 0 30px;
-    font-weight: lighter;
-    font-size: 22px;
-  } */
 
   footer {
       background: #fce138;
