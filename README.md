@@ -12,3 +12,6 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [your name]
+
+
+I am using my own test text
